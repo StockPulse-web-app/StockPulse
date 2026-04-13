@@ -1,3 +1,2 @@
-# StockPulse-0.5-Beta
-This website i made using Base44 might have issues i might fix in the next few days as new updates also thanks if your using it.
-Website is at https://rampant-stock-pulse-live.base44.app/
+# StockPulse-0.6-Beta UI Update
+This new update adds UI improvements like glow under buttons, more text, and so much more! i hope you like this website please comment any bugs to fix. The website is: https://rampant-stock-pulse-live.base44.app
